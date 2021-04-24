@@ -944,6 +944,16 @@
           "deploy": "https://heroku.com/deploy?template=https://github.com/chatwoot/chatwoot/tree/master"
         },
         {
+          "name": "papercups",
+          "stars": "4.1K",
+          "svg": "/Users/akhilvaryani/Desktop/BotCart/opensource.builders/logos/papercups logo.png",
+          "repo": "papercups-io/papercups",
+          "license": "MIT",
+          "site": "https://papercups.io/",
+          "language": "Elixir",
+          "deploy": "https://heroku.com/deploy?template=https://github.com/papercups-io/papercups/tree/master"
+        },
+        {
           "name": "chaskiq",
           "repo": "chaskiq/chaskiq",
           "stars": "144",
