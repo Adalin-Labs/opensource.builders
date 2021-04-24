@@ -946,7 +946,7 @@
         {
           "name": "papercups",
           "stars": "4.1K",
-          "svg": "/Users/akhilvaryani/Desktop/BotCart/opensource.builders/logos/papercups logo.png",
+          "svg": "https://cdn.jsdelivr.net/gh/papercups-io/papercups/assets/public/logo.svg",
           "repo": "papercups-io/papercups",
           "license": "MIT",
           "site": "https://papercups.io/",
